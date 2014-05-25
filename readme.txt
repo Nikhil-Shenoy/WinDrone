@@ -1,0 +1,1 @@
+This is the WinDrone Project, which seeks to use hand gestures as commands for the flight patterns of an AR Drone. We use the Leap Motion to record information about the user's hand gestures, and then use that data to form commands for the AR Drone.
