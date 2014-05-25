@@ -1,9 +1,9 @@
-1) Revise the block diagram (
+1) Revise the block diagram 
 2) What does it mean to extract frames? (before "Stabilizing Flight") Nikhil
-3) Figure 20 is supposedly not Gaussian.
+3) Figure 20 is supposedly not Gaussian. Felix 
 4) Figure 23 is the hand actually shaking towards the right? Nikhil
-5) Precise definition of the General Extreme Value distribution 
-6) Math defining the moving average filter. Why did we choose 10 frames as opposed to 20 or 50? 
+5) Precise definition of the General Extreme Value distribution Felix
+6) Math defining the moving average filter. Why did we choose 10 frames as opposed to 20 or 50? Felix
 7) Where are derivatives discussed, and how are the three concepts combined?  shu
 8) How do we know that the instructions are sent to the drone ever 3.33 milliseconds? shu
 9) Does the time frame in which the instructions are sent matter? shu
