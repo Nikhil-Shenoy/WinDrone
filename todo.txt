@@ -8,3 +8,7 @@
 8) How do we know that the instructions are sent to the drone ever 3.33 milliseconds? shu
 9) Does the time frame in which the instructions are sent matter? shu
 10) Maybe the physics behind actually moving the drone is the reason for slow response time ("Future Work") Nikhil
+
+
+Completed:
+	2) Page 15
