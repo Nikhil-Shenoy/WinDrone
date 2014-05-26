@@ -250,9 +250,8 @@ Figures 20-26 show the histograms for the different positions. The basic criteri
 	\centering
 	\includegraphics[height=6cm,width=90mm]{pics/rightHistogram1.jpg}
 	\caption{This is the histogram for our hand in the move right state. It is designed to account for the degrees for roll, therefore the data in this histogram is a graphical interpretation of roll in degrees.  As can be seen, the data's mean is around -20 degrees, and diminishes on the tails. 
-Our data is skewed towards the right of the sample set.
+Our data is skewed towards the right of the sample set.}
 
-s skewed on one side, there is more deviation towards the more negative degrees, and move right is represented by negative degrees.  Thus it means the the pilot's hand is shaking towards the right.}
 \end{figure}
 
 \begin{figure}[H]
@@ -495,7 +494,7 @@ The combination of the defined states and the flight-stabilizing algorithm resul
 
 \section*{Future Work}
 
-There are several different improvements that can be made to the project. First, the transitions between the different states of movement can be improved. In our tests, we found that the Drone would not respond instantaneously to a change in the hand movement. This delay could be due to the time that the Leap Motion takes to detect and register hand movements through the frames, or it could be due to a definition of hand states that was not as precise. Regardless, the response of the Drone to quick changes in directions is an area for further work.
+There are several different improvements that can be made to the project. First, the transitions between the different states of movement can be improved. In our tests, we found that the Drone would not respond instantaneously to a change in the hand movement. This delay could be due to the time that the Leap Motion takes to detect and register hand movements through the frames, or it could be due to a definition of hand states that was not as precise. Also, the inertia of the drone could be a factor of the delay. When the drone moves in a certain direction, it has significant amount of momentum. The motors must fight against this momentum whenever the user wants to change the direction of the drone, which takes a small but significant amount of time. In addition, the time taken by the motors to counteract the momentum can vary depending on how fast the drone is going. As a result, the user may not get an instantenous response from the drone when it tries to change direction. Regardless, the response of the Drone to quick changes in directions is an area for further work.
 	
 In addition to response time, the precision of control over the Drone should be worked on. In our figure-eight test, we found that the maneuvers did not provide enough control to navigate the path. Control was especially difficult when traversing the sharp turns. Our current system did not account for extremely precise movements of the Drone, and we feel that this is definitely an area for future work.
 	
