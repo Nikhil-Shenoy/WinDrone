@@ -13,6 +13,9 @@
 Completed:
 1) Revise the block diagram
 2) Page 15
+5) added
+6) added
 8) explained it
 9) added it
 10) Page 38
+
