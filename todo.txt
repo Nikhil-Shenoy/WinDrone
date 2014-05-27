@@ -19,3 +19,5 @@ Completed:
 9) added it
 10) Page 38
 
+limiter explanation
+
