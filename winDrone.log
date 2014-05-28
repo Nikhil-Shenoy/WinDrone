@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  28 MAY 2014 10:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  28 MAY 2014 10:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -240,3 +240,1489 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \@envbody=\toks20
 \multlinegap=\skip44
 \multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+
+! LaTeX Error: File `minipage.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count102
+\sf@farskip=\skip46
+\sf@captopadj=\dimen121
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip49
+\sf@bottom=\skip50
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13                 \begin{center}
+                                   
+? 
+<pics/titlepic.jpg, id=1, 438.70944pt x 438.70944pt>
+File: pics/titlepic.jpg Graphic file (type jpg)
+ <use pics/titlepic.jpg>
+Package pdftex.def Info: pics/titlepic.jpg used on input line 22.
+(pdftex.def)             Requested size: 284.5352pt x 227.62146pt.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 31.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pics/
+titlepic.jpg>]
+
+LaTeX Warning: Unused global option(s):
+    [english].
+
+(./winDrone.aux)
+\openout1 = `winDrone.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 34.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 34.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen122
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen123
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 43.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<pics/yaw1.jpg, id=10, 268.00125pt x 211.79124pt>
+File: pics/yaw1.jpg Graphic file (type jpg)
+ <use pics/yaw1.jpg>
+Package pdftex.def Info: pics/yaw1.jpg used on input line 46.
+(pdftex.def)             Requested size: 227.6222pt x 170.72266pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+ []
+
+<pics/pitch1.jpg, id=11, 263.98625pt x 201.75375pt>
+File: pics/pitch1.jpg Graphic file (type jpg)
+ <use pics/pitch1.jpg>
+Package pdftex.def Info: pics/pitch1.jpg used on input line 52.
+(pdftex.def)             Requested size: 227.6199pt x 170.71878pt.
+
+[1 <./pics/yaw1.jpg>] <pics/roll1.jpg, id=18, 297.11pt x 248.93pt>
+File: pics/roll1.jpg Graphic file (type jpg)
+
+<use pics/roll1.jpg>
+Package pdftex.def Info: pics/roll1.jpg used on input line 58.
+(pdftex.def)             Requested size: 227.63295pt x 170.72113pt.
+ [2 <./pics/pitch1.jpg> <./pics/roll1.jpg>]
+<pics/drone.jpg, id=22, 1505.625pt x 899.36pt>
+File: pics/drone.jpg Graphic file (type jpg)
+ <use pics/drone.jpg>
+Package pdftex.def Info: pics/drone.jpg used on input line 71.
+(pdftex.def)             Requested size: 256.06773pt x 170.7155pt.
+ [3 <./pics/drone.jpg>] <pics/leap.jpg, id=26, 1204.5pt x 718.685pt>
+File: pics/leap.jpg Graphic file (type jpg)
+ <use pics/leap.jpg>
+Package pdftex.def Info: pics/leap.jpg used on input line 79.
+(pdftex.def)             Requested size: 256.07692pt x 170.7114pt.
+
+[4 <./pics/leap.jpg>]
+<pics/blockDiagram1.jpg, id=30, 1241.63875pt x 174.6525pt>
+File: pics/blockDiagram1.jpg Graphic file (type jpg)
+
+<use pics/blockDiagram1.jpg>
+Package pdftex.def Info: pics/blockDiagram1.jpg used on input line 89.
+(pdftex.def)             Requested size: 426.79333pt x 85.35927pt.
+
+Overfull \hbox (36.79333pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+<pics/controlFlowChart.jpg, id=31, 646.415pt x 507.8975pt>
+File: pics/controlFlowChart.jpg Graphic file (type jpg)
+
+<use pics/controlFlowChart.jpg>
+Package pdftex.def Info: pics/controlFlowChart.jpg used on input line 96.
+(pdftex.def)             Requested size: 312.97827pt x 256.07935pt.
+ [5 <./pics/blockDiagram1.jpg> <./pics/controlFlowChart.jpg>] <pics/mean.jpg, i
+d=35, 1236.62pt x 1138.2525pt>
+File: pics/mean.jpg Graphic file (type jpg)
+
+<use pics/mean.jpg>
+Package pdftex.def Info: pics/mean.jpg used on input line 116.
+(pdftex.def)             Requested size: 227.62009pt x 170.71313pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--118
+
+ []
+
+[6] <pics/left.jpg, id=40, 282.05376pt x 326.21875pt>
+File: pics/left.jpg Graphic file (type jpg)
+ <use pics/left.jpg>
+Package pdftex.def Info: pics/left.jpg used on input line 122.
+(pdftex.def)             Requested size: 227.62305pt x 170.71985pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+
+ []
+
+<pics/right.jpg, id=41, 295.1025pt x 334.24875pt>
+File: pics/right.jpg Graphic file (type jpg)
+ <use pics/right.jpg>
+Package pdftex.def Info: pics/right.jpg used on input line 128.
+(pdftex.def)             Requested size: 227.62587pt x 170.7196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--130
+
+ []
+
+[7 <./pics/mean.jpg> <./pics/left.jpg>]
+<pics/forward.jpg, id=45, 203.76125pt x 214.8025pt>
+File: pics/forward.jpg Graphic file (type jpg)
+ <use pics/forward.jpg>
+Package pdftex.def Info: pics/forward.jpg used on input line 134.
+(pdftex.def)             Requested size: 227.63272pt x 170.718pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--136
+
+ []
+
+<pics/backward.jpg, id=46, 213.79875pt x 307.1475pt>
+File: pics/backward.jpg Graphic file (type jpg)
+ <use pics/backward.jpg>
+Package pdftex.def Info: pics/backward.jpg used on input line 140.
+(pdftex.def)             Requested size: 227.62059pt x 170.71727pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--142
+
+ []
+
+[8 <./pics/right.jpg> <./pics/forward.jpg>]
+<pics/rotateLeft.jpg, id=50, 322.20375pt x 387.4475pt>
+File: pics/rotateLeft.jpg Graphic file (type jpg)
+
+<use pics/rotateLeft.jpg>
+Package pdftex.def Info: pics/rotateLeft.jpg used on input line 146.
+(pdftex.def)             Requested size: 227.63055pt x 170.7198pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--148
+
+ []
+
+<pics/rotateRight.jpg, id=51, 285.065pt x 323.2075pt>
+File: pics/rotateRight.jpg Graphic file (type jpg)
+
+<use pics/rotateRight.jpg>
+Package pdftex.def Info: pics/rotateRight.jpg used on input line 152.
+(pdftex.def)             Requested size: 227.62167pt x 170.71721pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+
+ []
+
+[9 <./pics/backward.jpg> <./pics/rotateLeft.jpg>] [10 <./pics/rotateRight.jpg>]
+[11] <pics/frameData.jpg, id=61, 578.16pt x 42.1575pt>
+File: pics/frameData.jpg Graphic file (type jpg)
+
+<use pics/frameData.jpg>
+Package pdftex.def Info: pics/frameData.jpg used on input line 173.
+(pdftex.def)             Requested size: 369.87997pt x 28.45314pt.
+
+<pics/correspondingHand1.jpg, id=62, 294.09875pt x 222.8325pt>
+File: pics/correspondingHand1.jpg Graphic file (type jpg)
+
+<use pics/correspondingHand1.jpg>
+Package pdftex.def Info: pics/correspondingHand1.jpg used on input line 179.
+(pdftex.def)             Requested size: 256.07475pt x 170.71791pt.
+
+<pics/correspondingHand2.jpg, id=63, 247.92625pt x 293.095pt>
+File: pics/correspondingHand2.jpg Graphic file (type jpg)
+
+<use pics/correspondingHand2.jpg>
+Package pdftex.def Info: pics/correspondingHand2.jpg used on input line 185.
+(pdftex.def)             Requested size: 256.09323pt x 170.71524pt.
+ [12 <./pics/frameData.jpg> <./pics/correspondingHand1.jpg>] [13 <./pics/corres
+pondingHand2.jpg>] [14]
+<pics/CSV.jpg, id=74, 444.66125pt x 47.17625pt>
+File: pics/CSV.jpg Graphic file (type jpg)
+ <use pics/CSV.jpg>
+Package pdftex.def Info: pics/CSV.jpg used on input line 204.
+(pdftex.def)             Requested size: 369.88293pt x 42.6792pt.
+
+<pics/genNormalDist1.jpg, id=75, 367.3725pt x 260.975pt>
+File: pics/genNormalDist1.jpg Graphic file (type jpg)
+
+<use pics/genNormalDist1.jpg>
+Package pdftex.def Info: pics/genNormalDist1.jpg used on input line 215.
+(pdftex.def)             Requested size: 256.0939pt x 170.71887pt.
+ [15 <./pics/CSV.jpg> <./pics/genNormalDist1.jpg>] [16] <pics/hoverHistogram1.j
+pg, id=82, 580.1675pt x 437.635pt>
+File: pics/hoverHistogram1.jpg Graphic file (type jpg)
+
+<use pics/hoverHistogram1.jpg>
+Package pdftex.def Info: pics/hoverHistogram1.jpg used on input line 231.
+(pdftex.def)             Requested size: 256.07121pt x 170.71703pt.
+ [17]
+<pics/leftHistogram1.jpg, id=86, 549.05125pt x 421.575pt>
+File: pics/leftHistogram1.jpg Graphic file (type jpg)
+
+<use pics/leftHistogram1.jpg>
+Package pdftex.def Info: pics/leftHistogram1.jpg used on input line 238.
+(pdftex.def)             Requested size: 256.07695pt x 170.71764pt.
+
+<pics/turnLeftHistogram1.jpg, id=87, 534.99875pt x 429.605pt>
+File: pics/turnLeftHistogram1.jpg Graphic file (type jpg)
+
+<use pics/turnLeftHistogram1.jpg>
+Package pdftex.def Info: pics/turnLeftHistogram1.jpg used on input line 244.
+(pdftex.def)             Requested size: 256.08626pt x 170.718pt.
+ [18 <./pics/hoverHistogram1.jpg> <./pics/leftHistogram1.jpg>] <pics/rightHisto
+gram1.jpg, id=92, 562.1pt x 424.58624pt>
+File: pics/rightHistogram1.jpg Graphic file (type jpg)
+
+<use pics/rightHistogram1.jpg>
+Package pdftex.def Info: pics/rightHistogram1.jpg used on input line 250.
+(pdftex.def)             Requested size: 256.07324pt x 170.71906pt.
+ [19 <./pics/turnLeftHistogram1.jpg>]
+<pics/turnRightHistogram1.jpg, id=96, 544.0325pt x 427.5975pt>
+File: pics/turnRightHistogram1.jpg Graphic file (type jpg)
+
+<use pics/turnRightHistogram1.jpg>
+Package pdftex.def Info: pics/turnRightHistogram1.jpg used on input line 258.
+(pdftex.def)             Requested size: 256.08546pt x 170.71626pt.
+ [20 <./pics/rightHistogram1.jpg>]
+<pics/forwardHistogram1.jpg, id=100, 584.1825pt x 420.57124pt>
+File: pics/forwardHistogram1.jpg Graphic file (type jpg)
+
+<use pics/forwardHistogram1.jpg>
+Package pdftex.def Info: pics/forwardHistogram1.jpg used on input line 264.
+(pdftex.def)             Requested size: 256.07838pt x 170.71547pt.
+ [21 <./pics/turnRightHistogram1.jpg>]
+<pics/backwardHistogram1.jpg, id=104, 541.02126pt x 426.59375pt>
+File: pics/backwardHistogram1.jpg Graphic file (type jpg)
+
+<use pics/backwardHistogram1.jpg>
+Package pdftex.def Info: pics/backwardHistogram1.jpg used on input line 270.
+(pdftex.def)             Requested size: 256.07968pt x 170.71909pt.
+ [22 <./pics/forwardHistogram1.jpg>]
+Overfull \hbox (3.57387pt too wide) in paragraph at lines 278--279
+\T1/lmr/m/n/12 across four tests that were re-puted to be the best. These were 
+the Kolmogorov-
+ []
+
+[23 <./pics/backwardHistogram1.jpg>] [24]
+Overfull \hbox (0.87875pt too wide) in paragraph at lines 298--299
+[]\T1/lmr/m/n/12 The fol-low-ing are plots of power for the Sym-met-ric Dis-tri
+-bu-tions Beta(2,2)
+ []
+
+<pics/razali1.jpg, id=115, 482.80376pt x 272.01625pt>
+File: pics/razali1.jpg Graphic file (type jpg)
+ <use pics/razali1.jpg>
+Package pdftex.def Info: pics/razali1.jpg used on input line 302.
+(pdftex.def)             Requested size: 256.08368pt x 170.72363pt.
+
+<pics/razali2.jpg, id=116, 481.8pt x 271.0125pt>
+File: pics/razali2.jpg Graphic file (type jpg)
+ <use pics/razali2.jpg>
+Package pdftex.def Info: pics/razali2.jpg used on input line 308.
+(pdftex.def)             Requested size: 256.0806pt x 170.72223pt.
+
+[25 <./pics/razali1.jpg>]
+Overfull \hbox (24.35912pt too wide) in paragraph at lines 312--313
+[]\T1/lmr/m/n/12 The fol-low-ing are plots of power for the Asym-met-ric Dis-tr
+i-bu-tions Gamma(4,5)
+ []
+
+<pics/razali3.jpg, id=120, 482.80376pt x 281.05pt>
+File: pics/razali3.jpg Graphic file (type jpg)
+ <use pics/razali3.jpg>
+Package pdftex.def Info: pics/razali3.jpg used on input line 316.
+(pdftex.def)             Requested size: 256.08368pt x 170.71548pt.
+
+<pics/razali4.jpg, id=121, 507.8975pt x 281.05pt>
+File: pics/razali4.jpg Graphic file (type jpg)
+ <use pics/razali4.jpg>
+Package pdftex.def Info: pics/razali4.jpg used on input line 322.
+(pdftex.def)             Requested size: 256.07935pt x 170.71548pt.
+
+[26 <./pics/razali2.jpg> <./pics/razali3.jpg>] [27 <./pics/razali4.jpg>]
+<pics/swMatlab.jpg, id=128, 214.8025pt x 264.99pt>
+File: pics/swMatlab.jpg Graphic file (type jpg)
+ <use pics/swMatlab.jpg>
+Package pdftex.def Info: pics/swMatlab.jpg used on input line 332.
+(pdftex.def)             Requested size: 199.171pt x 256.09383pt.
+
+[28 <./pics/swMatlab.jpg>] <pics/qqHover.jpg, id=132, 512.91624pt x 425.59pt>
+File: pics/qqHover.jpg Graphic file (type jpg)
+
+<use pics/qqHover.jpg>
+Package pdftex.def Info: pics/qqHover.jpg used on input line 347.
+(pdftex.def)             Requested size: 256.07399pt x 170.72002pt.
+ [29]
+<pics/qqLeft.jpg, id=136, 518.93875pt x 423.5825pt>
+File: pics/qqLeft.jpg Graphic file (type jpg)
+ <use pics/qqLeft.jpg>
+Package pdftex.def Info: pics/qqLeft.jpg used on input line 355.
+(pdftex.def)             Requested size: 155.99762pt x 127.33426pt.
+
+<pics/qqRight.jpg, id=137, 548.0475pt x 433.62pt>
+File: pics/qqRight.jpg Graphic file (type jpg)
+ <use pics/qqRight.jpg>
+Package pdftex.def Info: pics/qqRight.jpg used on input line 359.
+(pdftex.def)             Requested size: 155.99762pt x 123.42418pt.
+
+<pics/qqTurnLeft.jpg, id=138, 554.07pt x 425.59pt>
+File: pics/qqTurnLeft.jpg Graphic file (type jpg)
+ <use pics/qqTurnLeft.jpg>
+Package pdftex.def Info: pics/qqTurnLeft.jpg used on input line 366.
+(pdftex.def)             Requested size: 155.99762pt x 119.82027pt.
+
+<pics/qqTurnRight.jpg, id=139, 522.95375pt x 422.57875pt>
+File: pics/qqTurnRight.jpg Graphic file (type jpg)
+
+<use pics/qqTurnRight.jpg>
+Package pdftex.def Info: pics/qqTurnRight.jpg used on input line 370.
+(pdftex.def)             Requested size: 155.99762pt x 126.05887pt.
+ <pics/qqForward.jpg, id=140, 517.935pt x 433.62pt>
+File: pics/qqForward.jpg Graphic file (type jpg)
+
+<use pics/qqForward.jpg>
+Package pdftex.def Info: pics/qqForward.jpg used on input line 377.
+(pdftex.def)             Requested size: 155.99762pt x 130.60309pt.
+
+<pics/qqBackward.jpg, id=141, 528.97626pt x 430.60875pt>
+File: pics/qqBackward.jpg Graphic file (type jpg)
+
+<use pics/qqBackward.jpg>
+Package pdftex.def Info: pics/qqBackward.jpg used on input line 381.
+(pdftex.def)             Requested size: 155.99762pt x 126.98904pt.
+ [30 <./pics/qqHover.jpg> <./pics/qqLeft.jpg> <./pics/qqRight.jpg> <./pics/qqTu
+rnLeft.jpg> <./pics/qqTurnRight.jpg>]
+
+! Package caption Error: No float type 'Correspondence of Standard Deviation to
+ Gesture' defined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 ...ondence of Standard Deviation to Gesture}
+                                                  
+? 
+
+! Package caption Error: No float type 'Correspondence of Standard Deviation to
+ Gesture' defined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+<argument> ...\@finalstrut \strutbox \fi }{}\par }
+                                                  
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+\sbox ...hbox {\color@setgroup #2\color@endgroup }
+                                                  
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+<argument> ...\@finalstrut \strutbox \fi }{}\par }
+                                                  
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+\@begin@tempboxa ...begingroup #2\color@endgroup }
+                                                  \def \width {\wd \@tempbox...
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Incompatible list can't be unboxed.
+\bm@s ->\unhbox \@tempboxa 
+                           
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.388 	\begin
+             {tabular}{|c|c|}
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.389 		\hline
+              
+? 
+! Misplaced alignment tab character &.
+l.390 			Gesture &
+                   Value of Two Standard Deviations (degrees) \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.391 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+! Misplaced alignment tab character &.
+l.392 			Hover &
+                 1.0853 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.393 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+! Misplaced alignment tab character &.
+l.394 			Move Left &
+                     1.7864 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.395 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+! Misplaced alignment tab character &.
+l.396 			Move Right &
+                      3.2460 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.397 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+! Misplaced alignment tab character &.
+l.398 			Turn Left &
+                     11.5063 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.399 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+
+ []
+
+! Misplaced alignment tab character &.
+l.400 			Turn Right &
+                      4.0744 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.401 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+! Misplaced alignment tab character &.
+l.402 			Move Forward &
+                        5.7164 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.403 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+! Misplaced alignment tab character &.
+l.404 			Move Backward &
+                         3.1171 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.405 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+! Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.406 	\end{tabular}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\endtabular ->\crcr \egroup 
+                            \egroup $\egroup 
+l.406 	\end{tabular}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.406 	\end{tabular}
+                    
+? 
+[31 <./pics/qqForward.jpg> <./pics/qqBackward.jpg>]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 406.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 406.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 406
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 406
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 406.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 406.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 406.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.406 	\end{tabular}
+                    
+? 
+
+! LaTeX Error: \begin{center} on input line 386 ended by \end{tabular}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 	\end{tabular}
+                    
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.406 	\end{tabular}
+                    
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 \end{center}
+                  
+? 
+[32]
+
+! Package caption Error: No float type 'Tolerances and Thresholds Corresponding
+ to Gestures' defined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 ...and Thresholds Corresponding to Gestures}
+                                                  
+? 
+
+! Package caption Error: No float type 'Tolerances and Thresholds Corresponding
+ to Gestures' defined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+<argument> ...\@finalstrut \strutbox \fi }{}\par }
+                                                  
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+\sbox ...hbox {\color@setgroup #2\color@endgroup }
+                                                  
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+<argument> ...\@finalstrut \strutbox \fi }{}\par }
+                                                  
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Extra }, or forgotten \endgroup.
+\@begin@tempboxa ...begingroup #2\color@endgroup }
+                                                  \def \width {\wd \@tempbox...
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Incompatible list can't be unboxed.
+\bm@s ->\unhbox \@tempboxa 
+                           
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.414 	\begin
+             {tabular}{|c|c|c|c|c|}
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.415 		\hline
+              
+? 
+! Misplaced alignment tab character &.
+l.416 			Gesture &
+                   Tolerance & Ideal & Positive Threshold & Negative Thresho...
+
+? 
+! Misplaced alignment tab character &.
+l.416 			Gesture & Tolerance &
+                               Ideal & Positive Threshold & Negative Thresho...
+
+? 
+! Misplaced alignment tab character &.
+l.416 			Gesture & Tolerance & Ideal &
+                                       Positive Threshold & Negative Thresho...
+
+? 
+! Misplaced alignment tab character &.
+l.416 ... Tolerance & Ideal & Positive Threshold &
+                                                   Negative Threshold \\
+? 
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.417 			 &
+            (degrees) & (degrees) & (degrees) & (degrees) \\
+? 
+! Misplaced alignment tab character &.
+l.417 			 & (degrees) &
+                        (degrees) & (degrees) & (degrees) \\
+? 
+! Misplaced alignment tab character &.
+l.417 			 & (degrees) & (degrees) &
+                                    (degrees) & (degrees) \\
+? 
+! Misplaced alignment tab character &.
+l.417 			 & (degrees) & (degrees) & (degrees) &
+                                                (degrees) \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.418 		\hline
+              
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--418
+
+ []
+
+! Misplaced alignment tab character &.
+l.419 			Hover &
+                 \pm 2 & 0 & +2 & -2 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.419 			Hover & \pm
+                     2 & 0 & +2 & -2 \\
+? 
+! Misplaced alignment tab character &.
+l.419 			Hover & \pm 2 &
+                         0 & +2 & -2 \\
+? 
+! Misplaced alignment tab character &.
+l.419 			Hover & \pm 2 & 0 &
+                             +2 & -2 \\
+? 
+! Misplaced alignment tab character &.
+l.419 			Hover & \pm 2 & 0 & +2 &
+                                  -2 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.420 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.420 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.420 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.421 			M
+          ove Left & \pm 4 & +45 & +49 & +41 \\
+? 
+! Misplaced alignment tab character &.
+l.421 			Move Left &
+                     \pm 4 & +45 & +49 & +41 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.421 			Move Left & \pm
+                         4 & +45 & +49 & +41 \\
+? 
+! Misplaced alignment tab character &.
+l.421 			Move Left & \pm 4 &
+                             +45 & +49 & +41 \\
+? 
+! Misplaced alignment tab character &.
+l.421 			Move Left & \pm 4 & +45 &
+                                   +49 & +41 \\
+? 
+! Misplaced alignment tab character &.
+l.421 			Move Left & \pm 4 & +45 & +49 &
+                                         +41 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.422 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.422 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.422 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.423 			M
+          ove Right & \pm 4 & -45 & -41 & -49 \\
+? 
+! Misplaced alignment tab character &.
+l.423 			Move Right &
+                      \pm 4 & -45 & -41 & -49 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.423 			Move Right & \pm
+                          4 & -45 & -41 & -49 \\
+? 
+! Misplaced alignment tab character &.
+l.423 			Move Right & \pm 4 &
+                              -45 & -41 & -49 \\
+? 
+! Misplaced alignment tab character &.
+l.423 			Move Right & \pm 4 & -45 &
+                                    -41 & -49 \\
+? 
+! Misplaced alignment tab character &.
+l.423 			Move Right & \pm 4 & -45 & -41 &
+                                          -49 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.424 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.424 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.424 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.425 			T
+          urn Left & \pm 12 & -45 & -33 & -57 \\
+? 
+! Misplaced alignment tab character &.
+l.425 			Turn Left &
+                     \pm 12 & -45 & -33 & -57 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.425 			Turn Left & \pm
+                         12 & -45 & -33 & -57 \\
+? 
+! Misplaced alignment tab character &.
+l.425 			Turn Left & \pm 12 &
+                              -45 & -33 & -57 \\
+? 
+! Misplaced alignment tab character &.
+l.425 			Turn Left & \pm 12 & -45 &
+                                    -33 & -57 \\
+? 
+! Misplaced alignment tab character &.
+l.425 			Turn Left & \pm 12 & -45 & -33 &
+                                          -57 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.426 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.426 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.426 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.427 			T
+          urn Right & \pm 12 & +45 & +57 & +33 \\
+? 
+! Misplaced alignment tab character &.
+l.427 			Turn Right &
+                      \pm 12 & +45 & +57 & +33 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.427 			Turn Right & \pm
+                          12 & +45 & +57 & +33 \\
+? 
+! Misplaced alignment tab character &.
+l.427 			Turn Right & \pm 12 &
+                               +45 & +57 & +33 \\
+? 
+! Misplaced alignment tab character &.
+l.427 			Turn Right & \pm 12 & +45 &
+                                     +57 & +33 \\
+? 
+! Misplaced alignment tab character &.
+l.427 			Turn Right & \pm 12 & +45 & +57 &
+                                           +33 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.428 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.428 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.428 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.429 			M
+          ove Forward & \pm 6 & +45 & +51 & +39 \\
+? 
+! Misplaced alignment tab character &.
+l.429 			Move Forward &
+                        \pm 6 & +45 & +51 & +39 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.429 			Move Forward & \pm
+                            6 & +45 & +51 & +39 \\
+? 
+! Misplaced alignment tab character &.
+l.429 			Move Forward & \pm 6 &
+                                +45 & +51 & +39 \\
+? 
+! Misplaced alignment tab character &.
+l.429 			Move Forward & \pm 6 & +45 &
+                                      +51 & +39 \\
+? 
+! Misplaced alignment tab character &.
+l.429 			Move Forward & \pm 6 & +45 & +51 &
+                                            +39 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.430 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.430 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.430 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.431 			M
+          ove Backward & \pm 6 & -45 & -39 & -51 \\
+? 
+! Misplaced alignment tab character &.
+l.431 			Move Backward &
+                         \pm 6 & -45 & -39 & -51 \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.431 			Move Backward & \pm
+                             6 & -45 & -39 & -51 \\
+? 
+! Misplaced alignment tab character &.
+l.431 			Move Backward & \pm 6 &
+                                 -45 & -39 & -51 \\
+? 
+! Misplaced alignment tab character &.
+l.431 			Move Backward & \pm 6 & -45 &
+                                       -39 & -51 \\
+? 
+! Misplaced alignment tab character &.
+l.431 			Move Backward & \pm 6 & -45 & -39 &
+                                             -51 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.432 		\hline
+              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.432 		\hline
+              
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.432 		\hline
+              
+? 
+! Extra }, or forgotten \endgroup.
+\@xhline ... -\arrayrulewidth \fi \ifnum 0=`{\fi }
+                                                  
+l.433 	\end
+           {tabular}
+? 
+! Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.433 	\end{tabular}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\endtabular ->\crcr \egroup 
+                            \egroup $\egroup 
+l.433 	\end{tabular}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.433 	\end{tabular}
+                    
+? 
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.433 	\end{tabular}
+                    
+? 
+
+! LaTeX Error: \begin{center} on input line 412 ended by \end{tabular}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.433 	\end{tabular}
+                    
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.433 	\end{tabular}
+                    
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 \end{center}
+                  
+? 
+[33]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.459 		\hline
+              
+? 
+! You can't use `\hrule' here except with leaders.
+\hline ->\noalign {\ifnum 0=`}\fi \hrule 
+                                         \@height \arrayrulewidth \futurelet...
+l.459 		\hline
+              
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \futurelet 
+l.459 		\hline
+              
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \futurelet 
+l.459 		\hline
+              
+? 
+
+Overfull \hbox (13.17484pt too wide) in paragraph at lines 449--461
+ [] 
+ []
+
+[34] <pics/movingAverage.jpg, id=161, 470.75874pt x 206.7725pt>
+File: pics/movingAverage.jpg Graphic file (type jpg)
+
+<use pics/movingAverage.jpg>
+Package pdftex.def Info: pics/movingAverage.jpg used on input line 469.
+(pdftex.def)             Requested size: 341.43143pt x 170.71877pt.
+ [35 <./pics/movingAverage.jpg>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.477 ...mmunicate with the drone through this Wi_
+                                                  fi access point. The Leap ...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.478 
+      
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.478 
+      
+? 
+
+Overfull \hbox (3342.22533pt too wide) in paragraph at lines 477--478
+ \T1/lmr/m/n/12 Wi$[]\OML/lmm/m/it/12 iaccesspoint:TheLeapMotioncontrollerismad
+etocapture\OT1/lmr/m/n/12 300\OML/lmm/m/it/12 frameseverysecond; oroneframeappr
+oximatelyevery\OT1/lmr/m/n/12 3\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 33\OML/lmm/m/i
+t/12 milliseconds:Underidealconditions; thiswouldtranslateintoaninstructionbein
+gsenttothedroneevery\OT1/lmr/m/n/12 3\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 33\OML/l
+mm/m/it/12 millisecondsaswell:Wechoosetosendaninstructiontothedroneeverytimeafr
+ameisprocessedratherthanprocessingmultipleframesandthensendinganinstructionever
+y\OT1/lmr/m/n/12 33\OML/lmm/m/it/12 or\OT1/lmr/m/n/12 333\OML/lmm/m/it/12 milli
+secondsinordertomaximizethestabilityoftheflightandminimizedelays:Aswillbeexplai
+nedlater; bysendinginstructionsasoftenaspossibleweimplementasafetymeasuretoensu
+rethatagoodconnectionisbeingmaintainedbetweentheapplicationandthedrone:Alongwit
+hthis; itallowspilottohavemaximumcontroloverthedrone \OMS/lmsy/m/n/12 ^^@ 
+ []
+
+
+Overfull \hbox (2426.01262pt too wide) in paragraph at lines 477--478
+ \OML/lmm/m/it/12 ifinstructionsweresentevery\OT1/lmr/m/n/12 300\OML/lmm/m/it/1
+2 millisecondsratherthanevery\OT1/lmr/m/n/12 3\OML/lmm/m/it/12 milliseconds; or
+even\OT1/lmr/m/n/12 30\OML/lmm/m/it/12 millisecondsratherthan\OT1/lmr/m/n/12 3\
+OML/lmm/m/it/12 milliseconds; unnecessarydelayswouldbenoticed:Asinstructionsare
+beingsentevery\OT1/lmr/m/n/12 3\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 33\OML/lmm/m/i
+t/12 milliseconds:Essentially; theresponsetimelowersaswesendinstructionstothedr
+onefasterandevery\OT1/lmr/m/n/12 3\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 33\OML/lmm/
+m/it/12 millisecondsisthefastestintervalwherewecapturenewdatafromthedrone:Wedec
+idedtoutilizeUserDatagramProtocol\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 UDP\OT1/lmr/
+m/n/12 )\OML/lmm/m/it/12 ratherthanTransmissionControlProtocol\OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 TCP\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 :Themaindifferencebetween
+UDPandTCPistheirspeedandsecurity \OMS/lmsy/m/n/12 ^^@ 
+ []
+
+
+Overfull \hbox (132.75943pt too wide) in paragraph at lines 477--478
+ \OML/lmm/m/it/12 whileTCPgoesthroughprocedurestoensurethatasmanybitsofdataaspo
+ssiblearesentthroughitshand \OMS/lmsy/m/n/12 ^^@ 
+ []
+
+
+Overfull \hbox (4761.06163pt too wide) in paragraph at lines 477--478
+ \OML/lmm/m/it/12 shakingprocess; thisalsomeansthatdataissentataslowerratethanU
+DPwhodoesnotcareasmuchaboutsecurityasitdoesspeed:Forthisreason; wedecidedtoutil
+izeUDP:Asweareattemptingtosend\OT1/lmr/m/n/12 300\OML/lmm/m/it/12 frameseveryse
+cond; andhumanhandstendtonotvarygreatlywithinsuchasmalltimeframe; itisnotasimpo
+rtantthateverysingleinstructionisreceivedcorrectly:Ratheritismoreimportantthati
+nstructionsaresentwithaslittledelayaspossiblesothatthepilotdoesnotrecognizeasig
+nificantornoticeableamountofdelaybetweenhisinstructionandthedrone[]sflightpath:
+AsameasuretopreventlossofcontrolovertheDrone; weincludedasafeguardthatcommandst
+heDronetoautomaticallylandandshutdownifnorecognizableinstructionshavebeenreceiv
+edfor\OT1/lmr/m/n/12 300\OML/lmm/m/it/12 milliseconds:Weputdroneinstructionsins
+ideofacallbackmethod; whichmakestheprogramsendinstructionseverytimeaframeiscapt
+uredbytheLeapMotionController:However; occasionallyanissueoccurswheretheLeapMot
+ioncontrollermaydropframesonresource \OMS/lmsy/m/n/12 ^^@ 
+ []
+
+
+Overfull \hbox (4579.02838pt too wide) in paragraph at lines 477--478
+ \OML/lmm/m/it/12 limitedcomputers; ortheapplicationmightmissframesifthelistene
+rtakestoolongtoprocessasingleframe; asitcannotgrabthenextframeuntilthecurrenton
+eisfinishedprocessing:Unfortunatelyframesarebeingprocessedandinstructionsarebei
+ngsentwithsuchhighfrequencythatthereisnodefinitivewaytoknowwhensingleframesareb
+eingdropped:Howeverthisveryhighfrequencyofframesbeingprocessedandinstructionsbe
+ingsentisalsofortunatebecauseitmeansthatevenifsingleframesarebeingdropped; then
+extinstructionwillbesenttothedronebeforeanysignificantornoticeabledamageisdealt
+:Aslongasthelatestinstructionsenttothedroneisbeingexecuted; theinstructionssent
+tothedroneduringatransitiontothenewstateissafelydiscardedastheyarenolongerrelev
+ent:IftheparrotARdronefailstoreceiveinstructionsfor\OT1/lmr/m/n/12 300\OML/lmm/
+m/it/12 milliseconds\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 approximately\OT1/lmr/m/n
+/12 100\OML/lmm/m/it/12 frames\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; itisevidentth
+atdisconnectioniseitherduetonetworkproblemsoramajorfaultinthecontroller=applica
+tion:[]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.478 
+      
+? 
+File: pics/qqLeft.jpg Graphic file (type jpg)
+<use pics/qqLeft.jpg>
+Package pdftex.def Info: pics/qqLeft.jpg used on input line 486.
+(pdftex.def)             Requested size: 256.0876pt x 170.7162pt.
+ [36] [37]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.513 			Stability Testing & & 50\% & 50\% & &
+                                              
+? 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.517 			Drone Instructions & & 50\% & 50\% & &
+                                               
+? 
+[38]
+Underfull \hbox (badness 1776) in paragraph at lines 530--531
+[]\T1/lmr/m/n/12 Shapiro, S.S.; Wilk, M.B. (1965). "An anal-y-sis of vari-ance 
+test
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 530--531
+\T1/lmr/m/n/12 for nor-mal-ity (com-plete sam-ples)". \T1/lmr/m/it/12 Biometrik
+a \T1/lmr/bx/n/12 52 \T1/lmr/m/n/12 (3-4): 591-611.
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+[]\T1/lmr/m/n/12 "Cramer-von Mises cri-te-rion." \T1/lmr/m/it/12 Wikipedia: the
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T1/lmr/m/it/12 Free En-cy-clo-pe-dia. \T1/lmr/m/n/12 N.p., n.d. Web. 20 May 20
+14.
+ []
+
+
+! LaTeX Error: \begin{center} on input line 412 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.557 \end{document}
+                    
+? 
+[40] (./winDrone.aux) )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 412 (\begingroup)
+### semi simple group (level 1) entered at line 386 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 4414 strings out of 493315
+ 68470 string characters out of 6137904
+ 129921 words of memory out of 5000000
+ 7755 multiletter control sequences out of 15000+600000
+ 50428 words of font info for 41 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 44i,9n,47p,3820b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
+c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
+cal/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texliv
+e/2013/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2013/texmf-d
+ist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/lm/lmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm
+/lmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/loca
+l/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/lm/lmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/cm-super/sfbx2074.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/cm-super/sfrm1095.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
+m-super/sfrm1440.pfb>
+Output written on winDrone.pdf (41 pages, 1891673 bytes).
+PDF statistics:
+ 232 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
