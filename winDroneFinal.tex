@@ -39,29 +39,6 @@
 \section*{Abstract}
 	In this study, we create a new interface to decrease the difficulty of controlling the Parrot AR Drone, a radio controlled flying quadcopter helicopter. Rather than using the default iOS/Android application, we enable a simpler, intuitive, and natural control module: hand gestures. Taking advantage of new technology called the Leap Motion Controller \textemdash a device which is able to sense the user's hands and fingers \textemdash we create a system for users to send instructions directly to the AR Drone based on the positioning of their hand. Although originally intended for users to be able to more easily control AR Drones, this study may also be used to further study human-computer interaction as well.
 
-\section*{Introduction to Flight Dynamics}
-\begin{itemize}
-		\item Yaw: left or right rotation with relation to the normal axis of the center of mass  of the object. Example: \\
-		\begin{figure}[t]
-			\centering
-			\includegraphics[height=6cm, width=80mm]{pics/yaw1.jpg} 
-			\caption{Example of Yaw}
-		\end{figure}
-		\item Pitch: rotation along the lateral axis of the object. In the example of a plane, the lateral axis is measured from wingtip to wingtip. Example:
-		\begin{figure}[t]
-			\centering
-			\includegraphics[height=6cm, width=80mm]{pics/pitch1.jpg} 
-			\caption{Example of Pitch}
-		\end{figure}
-		\item Roll: rotation along the longitudinal axis of the object. In the example of a plane, the longitudinal axis is measured from the plane's head to its tail. Example:
-		\begin{figure}[t]
-			\centering
-			\includegraphics[height=6cm, width=80mm]{pics/roll1.jpg} 
-			\caption{Example of Roll}
-		\end{figure}
-		\item Flight dynamics: angles of rotation in three dimensions around a vehicle's center of mass. These include yaw, pitch, and roll. Note: all references to "clockwise" and "counter-clockwise" are described from the user's perspective of his hand.
-\end{itemize}
-
 
 \section*{Introduction}
 
@@ -84,6 +61,30 @@ The Leap Motion Controller (Figure 5) is a small, USB-sized device that is capab
  
 In this study, the Leap Motion Controller is integrated with the Parrot AR Drone, creating a new interface for users to control the drone's flight. This newly developed interface strives to provide users with a simpler, more stable, and more natural flight control experience. Our interface allows users to control the AR Drone using basic hand gestures that are interpreted as flight instructions. Stabilization algorithms are also implemented to clearly define the user's hand gestures, allowing the interface to easily interpret the gestures as commands. After receiving input from the user, our interface analyzes and manipulates this information before sending instructions to the AR Drone. Our System Block Diagram outlines this in Figure 6. In Figure 7, our System Flow Chart is shown. This flow chart displays the decisions that the system makes based on the inputs it gets from the Leap Motion. Initially, the system checks to see if a hand is present. If it is, then the moving average algorithm will execute. Once that algorithm completes, the Drift Test algorithm executes. These two algorithms are part of the "Stability Algorithm" section of the Block Diagram in Figure 6. Once those two algorithms are completed, then the decision tree is entered so the system can figure out what command to send to the AR Drone.  The remaining decision structures in the Flow Chart belong to the "Translate data into instructions" section of the Block Diagram. Once all the decisions have been considered, then the Leap Motion delivers a new set of frames and the Flow Chart goes back to the "Start" step.
 
+Since the AR Drone can move in the same directions as any normal aircraft, it can be described using the same terminology that is used for airplanes and spacecraft. The terminology, called "flight dynamics", allows us to isolate different types of movements and directly pair them with hand gestures provided by the user. We give a brief description of the terminology in the next section.
+
+\section*{Introduction to Flight Dynamics}
+\begin{itemize}
+		\item Yaw: left or right rotation with relation to the normal axis of the center of mass  of the object. 
+		\begin{figure}[t]
+			\centering
+			\includegraphics[height=6cm, width=80mm]{pics/yaw1.jpg} 
+			\caption{Example of Yaw}
+		\end{figure}
+		\item Pitch: rotation along the lateral axis of the object. In the example of a plane, the lateral axis is measured from wingtip to wingtip. 
+		\begin{figure}[t]
+			\centering
+			\includegraphics[height=6cm, width=80mm]{pics/pitch1.jpg} 
+			\caption{Example of Pitch}
+		\end{figure}
+		\item Roll: rotation along the longitudinal axis of the object. In the example of a plane, the longitudinal axis is measured from the plane's head to its tail. 
+		\begin{figure}[t]
+			\centering
+			\includegraphics[height=6cm, width=80mm]{pics/roll1.jpg} 
+			\caption{Example of Roll}
+		\end{figure}
+		\item Flight dynamics: angles of rotation in three dimensions around a vehicle's center of mass. These include yaw, pitch, and roll. Note: all references to "clockwise" and "counter-clockwise" are described from the user's perspective of his hand.
+\end{itemize}
 
 \begin{figure}[h]
 	\centering
@@ -111,43 +112,43 @@ Six basic gestures were used to create the interface for the Drone. These are th
 
 		\item Gesture: a placement of the hand in the space around the Leap Motion. Defined by degrees of rotation of the hand from a standard placement. All gestures recognized by the system should imitate a position similar to that of the hand when placed flat on a table. 
 		\item Drone interface: set of mappings of hand gestures to the AR Drone's flight dynamics which is presented to the user. 
-		\item Mean (Hover,neutral) position: State defined with the plane of the palm parallel to the ground.The normal vector from the plane of the palm should be pointing towards the and should be perpendicular to the ground. The hand should be held approximately 10 centimeters above the Leap Motion. \\
+		\item Mean (Hover,neutral) position: State defined with the plane of the palm parallel to the ground.The normal vector from the plane of the palm should be pointing towards the and should be perpendicular to the ground. The hand should be held approximately 10 centimeters above the Leap Motion. 
 		\begin{figure}[t]
 			\centering
 			\includegraphics[height=6cm, width=80mm]{pics/mean.jpg} 
 			\caption{The Mean Position}
 		\end{figure}
-		\item Left position: State defined with the normal vector of the palm rotated counter-clockwise along the longitudinal axis by greater than 4 degrees measured from the mean position. \\
+		\item Left position: State defined with the normal vector of the palm rotated counter-clockwise along the longitudinal axis by greater than 4 degrees measured from the mean position. 
 		\begin{figure}[t]
 			\centering
 			\includegraphics[height=6cm, width=80mm]{pics/left.jpg} 
 			\caption{The Left Position}
 		\end{figure}
-		\item Right position: State defined with the normal vector of the palm rotated clockwise along the longitudinal axis by less than -4 degrees measured from the mean position. \\
+		\item Right position: State defined with the normal vector of the palm rotated clockwise along the longitudinal axis by less than -4 degrees measured from the mean position. 
 		\begin{figure}[t]
 			\centering
 			\includegraphics[height=6cm, width=80mm]{pics/right.jpg} 
 			\caption{The Right Position}
 		\end{figure}
-		\item Forward position: State defined with the normal vector of the palm rotated clockwise along the lateral axis by greater than 6 degrees from the mean position. \\
+		\item Forward position: State defined with the normal vector of the palm rotated clockwise along the lateral axis by greater than 6 degrees from the mean position. 
 		\begin{figure}[t]
 	 		\centering
 			\includegraphics[height=6cm, width=80mm]{pics/forward.jpg} 
 			\caption{The Forward Position}
 		\end{figure}
-		\item Backward position: State defined with the normal vector of the palm rotated counter-clockwise along the lateral axis by less than -6 degrees from the mean position.  \\
+		\item Backward position: State defined with the normal vector of the palm rotated counter-clockwise along the lateral axis by less than -6 degrees from the mean position.  
 		\begin{figure}[t]
 	 		\centering
 			\includegraphics[height=6cm, width=80mm]{pics/backward.jpg} 
 			\caption{The Backward Position}
 		\end{figure}
-		\item Rotate left position: State defined with the normal vector of the palm rotated counter-clockwise along the normal axis by greater than 12 degrees from the mean position. \\
+		\item Rotate left position: State defined with the normal vector of the palm rotated counter-clockwise along the normal axis by greater than 12 degrees from the mean position. 
 		\begin{figure}[t]
 			\centering
 			\includegraphics[height=6cm, width=80mm]{pics/rotateLeft.jpg} 
 			\caption{The Rotate Left Position}
 		\end{figure}
-		\item Rotate right position: State defined with the normal vector of the palm rotated counter-clockwise along the normal axis by less than 12 degrees from the mean position. \\
+		\item Rotate right position: State defined with the normal vector of the palm rotated counter-clockwise along the normal axis by less than 12 degrees from the mean position. 
 		\begin{figure}[t]
 			\centering
 			\includegraphics[height=6cm, width=80mm]{pics/rotateRight.jpg} 
